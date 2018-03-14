@@ -1,0 +1,27 @@
+.bg{
+	background-color: black;
+}
+
+.text{
+	font-family: 'Courier New';
+	text-align: center;
+	font-size: 30px;
+}
+
+#Reset{
+	color: black;
+	background: -webkit-linear-gradient(red, #d9534f); 
+	background: -o-linear-gradient(red, #d9534f); 
+	background: -moz-linear-gradient(red, #d9534f); 
+	background: linear-gradient(red, #d9534f); 
+}
+
+#letters{
+	color: white;
+}
+
+.hints{
+	font-family: 'Courier New';
+	text-align:center;
+	font-size: 50px;
+}

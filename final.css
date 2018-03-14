@@ -1,0 +1,17 @@
+
+
+.bg{
+	background-color: black;
+}
+
+.text{
+	font-family: 'Courier New';
+	text-align: center;
+	font-size: 30px;
+	color: white;
+}
+
+#Escape{
+	color:grey;
+}
+

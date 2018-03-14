@@ -1,0 +1,42 @@
+.bg{
+	background-color: black;
+}
+
+.text{
+	font-family: 'Courier New';
+	text-align: center;
+	font-size: 30px;
+}
+
+
+.answer{
+	padding-top: 10px;
+}
+
+#r{
+	color:red;
+}
+
+#o{
+	color:orange;
+}
+
+#y{
+	color:yellow;
+}
+
+#g{
+	color:green;
+}
+
+#b{
+	color:blue;
+}
+
+#i{
+	color:indigo;
+}
+
+#v{
+	color:violet;
+}

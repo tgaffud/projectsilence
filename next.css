@@ -1,0 +1,31 @@
+.bg{
+	background-color: black;
+}
+
+.text{
+	font-family: 'Courier New';
+	text-align: center;
+	font-size: 30px;
+	color:white;
+}
+#next{
+	color:grey;
+}
+#letters{
+	color: white;
+}
+
+.hints{
+	display:none;
+}
+
+.clue{
+	color:white;
+	font-family: 'Courier New';
+	text-align: center;
+	font-size: 3px;
+}
+
+.response{
+	padding-top: 10px;
+}

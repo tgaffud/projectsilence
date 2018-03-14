@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+}
+
+.text{
+	color: white;
+	font-family: 'Courier New';
+}
+
+
+#hidden{
+	color: black;
+}
+
+#hint{
+	color: red;
+}

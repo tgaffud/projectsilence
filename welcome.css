@@ -1,0 +1,43 @@
+img{
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.container{
+	top:0;
+	left:0;
+	width:100%;
+	display:flex;
+}
+
+.pad{
+	width:30%;
+}
+
+.image{
+	margin-left:auto;
+	margin-right: auto;
+	width:40%;
+	border:1px solid black;
+	border-radius:20px;
+	border-radius:20px;
+	text-align:center;
+}
+
+a{
+	display:block;
+}
+
+body{
+	background-color: black;
+}
+
+#note{
+	text-align:center;
+	color: #BEBEC1;
+	font-family: 'Courier New';
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: underline;
+}
